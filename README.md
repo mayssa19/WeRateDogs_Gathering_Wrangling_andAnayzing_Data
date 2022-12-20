@@ -21,7 +21,7 @@ The data was collected from different sources, assessed (by identifying data iss
 
 ## Details
 - [Data wrangling on Twitter datasets (Jupyter notebook online version)](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/wrangle_act.ipynb)
-- [Data wrangling report](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/wrangle_report.ipynb) that briefly describes the wrangling efforts (gathering, assessing and cleaning data) ([pdf version](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/act_report.ipynb). 
+- [Data wrangling report](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/wrangle_report.ipynb) that briefly describes the wrangling efforts (gathering, assessing and cleaning data) ([pdf version](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/act_report.ipynb)).
 - [Act_report](https://github.com/mayssa19/WeRateDogs_Wrangling_Anayzing_Data/blob/main/act_report.ipynb) that describes the data analysis insights. 
 
 ## Tools
